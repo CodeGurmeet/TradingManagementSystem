@@ -1,4 +1,0 @@
-Sell AAPL, Quantity: 2, Price: $182.68, Total: $365.36
-Sell AMZN, Quantity: 2, Price: $185.31, Total: $370.62
-Sell GOOG, Quantity: 2, Price: $135, Total: $270
-Sell AAPL, Quantity: 1, Price: $182.68, Total: $182.68
