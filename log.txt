@@ -1,12 +1,1 @@
-BUY, Limit Order, GOOG, 2, 140, 280
-BUY, Market Order, AAPL, 3, 182.68, 548.04
-SELL, Market Sell, AAPL, 2, 182.68, 365.36
-BUY, Market Order, AMZN, 3, 185.31, 555.93
-SELL, Market Sell, AMZN, 2, 185.31, 370.62
-SELL, Limit Sell, GOOG, 2, 135, 270
-SELL, Market Sell, AAPL, 3, 182.68, 548.04
-SELL, Market Sell, AAPL, 1, 182.68, 182.68
-BUY, Market Order, BABA, 3, 197.15, 591.45
-BUY, Market Order, AAPL, 11, 182.68, 2009.48
-BUY, Market Order, TSLA, 3, 170.75, 512.25
-BUY, Limit Order, AAPL, 2, 190, 380
+
