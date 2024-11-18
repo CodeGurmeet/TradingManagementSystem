@@ -1,7 +1,0 @@
-GOOG 2 140 280 Limit Order
-AAPL 3 182.68 548.04 Market Order
-AMZN, Quantity: 3, Price: $185.31, Total: $555.93
-BABA, Quantity: 3, Price: $197.15, Total: $591.45
-AAPL, Quantity: 11, Price: $182.68, Total: $2009.48
-TSLA, Quantity: 3, Price: $170.75, Total: $512.25
-AAPL, Quantity: 2, Price: $182.68, Total: $365.36
